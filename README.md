@@ -36,4 +36,4 @@ O projeto partiu de um desafio promovido pela RocketSeat afim da criação do So
 
 ---
 
-Feito com ♥ by Kauã Tiezzi [Entre em contato comigo clicando aqui.](https://discord.gg/aaaa)
+Feito com ♥ by Kauã Tiezzi [Entre em contato comigo clicando aqui.](https://discord.gg/ARxrzArWsA)
